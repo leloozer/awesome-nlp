@@ -126,8 +126,9 @@ Bayesian, statistics and Linguistics approaches for Natural Language Processing 
 * <a id="python">**Python** - Python NLP Libraries</a> | [Back to Top](#contents)
 
    * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common natural language processing (NLP) tasks. Stands on the giant shoulders of [Natural Language Toolkit (NLTK)](http://www.nltk.org/) and [Pattern](https://github.com/clips/pattern), and plays nicely with both :+1:
-   * [spaCy](https://github.com/spacy-io/spaCy) - Industrial strength NLP with Python and Cython :+1:
+   * [spaCy](https://github.com/spacy-io/spaCy) - Industrial strength NLP with Python and Cython :+1: 
      * [textacy](https://github.com/chartbeat-labs/textacy) - Higher level NLP built on spaCy
+   * [Lettria](https://lettria.com) - Best NLP/NER/NLU in French :+1:
    * [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text :+1:
    * [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora
    * [AllenNLP](https://github.com/allenai/allennlp) - An NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
